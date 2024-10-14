@@ -79,7 +79,7 @@ export default function Weather(props) {
           </a>{" "}
           and is{" "}
           <a
-            href=""
+            href="https://github.com/Jinoveva/week4-hw"
             target="_blank"
             rel="noopener noreferrer"
           >
